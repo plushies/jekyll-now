@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+hello
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+fluent in English and Italian
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[asparaguschia@gmail.com](mailto:asparaguschia@gmail.com)
